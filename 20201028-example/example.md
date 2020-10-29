@@ -46,7 +46,7 @@ _You **can** combine them_
    1. Item 3a
    1. Item 3b
    
-![cool diagram](20201028-example/diag.jpg)
+![cool diagram](diag.jpg)
 
 
 http://github.com - automatic!
