@@ -2,7 +2,6 @@
 title=Test Page
 header_image=macos.jpg
 publish_date=20201016
-comments=4
 author=techbitsio
 -->
 
