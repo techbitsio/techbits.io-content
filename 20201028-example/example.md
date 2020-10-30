@@ -1,7 +1,7 @@
 <!--- META
 title=Great example test page
 header_image=diag.jpg
-publish_date=20201010
+publish_dfate=20201010
 description=Example page showing varios graphical and typographical elements.
 comments=3
 tags=test,typographical, two word , powershell
