@@ -46,8 +46,9 @@ _You **can** combine them_
    1. Item 3a
    1. Item 3b
    
-![cool diagram](images/diag.jpg)
+<!--- breakout -->
 <img alt="cool" src="images/diag.jpg" class="fullwidth">
+<!--- breakin -->
 
 
 http://github.com - automatic!
