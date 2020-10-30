@@ -1,3 +1,10 @@
+<!--- META
+title=Great example test page
+header_image=macos.jpg
+publish_date=20201010
+description=Example page showing varios graphical and typographical elements.
+-->
+
 # Test
 
 ## Test
