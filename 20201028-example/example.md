@@ -4,12 +4,15 @@ header_image=diag.jpg
 publish_date=20201010
 description=Example page showing varios graphical and typographical elements.
 comments=3
-tags=test,typographical, two word , powershell 
+tags=test,typographical, two word , powershell
+author= 
 -->
 
 # Test
 
 ## Test
+
+[other](/20201026-test_file.html)
 
 ### Test
 

@@ -2,6 +2,8 @@
 
 ## Test
 
+[other](/20201028-example.html)
+
 ### Test
 
 #### Test
