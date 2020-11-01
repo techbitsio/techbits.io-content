@@ -1,7 +1,7 @@
 <!--- META
 title=Generating a static website with Python
 header_image=code_screens.jpg
-publish_dfate=20201101
+publish_date=20201101
 description=Create a static website with Python
 tags=python,static html
 author=techbitsio
